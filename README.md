@@ -79,8 +79,9 @@ int main() {
 ~~~
 
 ## OUTPUT:
-![Uploading Screenshot 2024-10-17 082303.png…]()
 
+
+![Screenshot 2024-10-17 082303](https://github.com/user-attachments/assets/0d98c1bc-4f3b-418c-9f46-ec25af7c9a5e)
 
 
 ## RESULT:
