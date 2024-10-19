@@ -80,8 +80,8 @@ int main() {
 
 ## OUTPUT:
 
+![Screenshot 2024-10-19 103509](https://github.com/user-attachments/assets/d92b0c10-ef98-4b79-9340-0d8d1c357bcb)
 
-![Screenshot 2024-10-17 082303](https://github.com/user-attachments/assets/0d98c1bc-4f3b-418c-9f46-ec25af7c9a5e)
 
 
 ## RESULT:
